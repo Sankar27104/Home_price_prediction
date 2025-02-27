@@ -56,3 +56,4 @@ public class MergeSort {
         printArray(array);
     }
 }
+\\on master
